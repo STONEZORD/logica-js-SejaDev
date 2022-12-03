@@ -6,7 +6,7 @@ nulL = null
 undefinede = undefined
 boolean1 = true
 boolean2 = false
-
+                                                                          
 
 console.log(string)
 console.log(number)
